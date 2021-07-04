@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 90px;
+}
+
+.login-form{
+    box-shadow: 6px 6px 10px rgb(105, 105, 105);
+    border-radius: 10px;
+    margin-top: 40px;
+    padding: 40px;
+}
+
+ .form-control{
+    margin-bottom: 20px;
+}
+
+.deposit-1 , .deposit-2, .deposit-3{
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px auto;
+    color: #fff;
+}
+
+.deposit-1{
+    background-color: rgb(117, 79, 255);
+}
+.deposit-2{
+     background-color: rgb(255, 151, 110);
+}
+.deposit-3{
+    background-color: rgb(233, 192, 80);
+}
+
+#transaction{
+    display: none;
+}
+
